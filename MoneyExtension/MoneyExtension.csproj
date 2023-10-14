@@ -1,9 +1,23 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<PackageId>moneyTesteBalta</PackageId>
+		<Version>1.0.0</Version>
+		<License>MIT</License>
+		<Authors>Matheus Trindade</Authors>
+		<PackageDescription>Extension to convert decimal to integer</PackageDescription>
+		<Description>Extension to convert decimal to integer</Description>
+		<RepositoryUrl>https://github.com/trindadematheus97/money-extension</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/trindadematheus97/money-extension</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>money;int;decimal;convert</PackageTags>
+		<Title>Money Extenions</Title>
+		<Summary>Extension to convert decimal to integer</Summary>
+
+	</PropertyGroup>
 
 </Project>
