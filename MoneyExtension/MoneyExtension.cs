@@ -15,5 +15,7 @@ public static class MoneyExtension
         int.TryParse(text, out var result);
         return result;
 
+
+        var s = 0;
     }
 }
